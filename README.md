@@ -6,4 +6,3 @@ something must be here
 
 first time bro
 
-git
